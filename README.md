@@ -1,6 +1,6 @@
 # QCHack 2022
 
-Hello! This is our submission to the qBraid Challend at QCHack 2022. We have attempted the OpenQASM Parser Challenge, in which we have implemented a parser that generates OpenQASM2.0 code which is quivalent to the input Amazon Braket circuit. The parser supports all standard gates, including multi-qubit and parameterised gates. 
+Hello! This is our submission to the qBraid Challenge at QCHack 2022. We have attempted the OpenQASM Parser Challenge, in which we have implemented a parser that generates OpenQASM2.0 code which is quivalent to the input Amazon Braket circuit. The parser supports all standard gates, including multi-qubit and parameterised gates. 
 
 Contributors: [@ayushidubal](https://github.com/ayushidubal) and [@naresh1205](https://github.com/naresh1205)
 
